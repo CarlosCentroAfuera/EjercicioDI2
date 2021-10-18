@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">EjercicioDI2</string>
+    <string name="esto_es_un_t_tulo">Esto es un título</string>
+    <string name="texto_largo1">Esto es el cuerpo del texto y puede ser muuuuuuuuuuuuuuuuuuuuuuy largo</string>
+    <string name="haz_algo">Haz algo</string>
+</resources>
